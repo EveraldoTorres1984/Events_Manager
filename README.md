@@ -1,0 +1,1 @@
+Projeto realizado para exercícios praticos do Laravel e suas funcioanlidades.
