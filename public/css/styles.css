@@ -8,12 +8,14 @@ a {
 
 #navbar img {
     width: 40px;
+    margin-left: 20px;
 }
 
 #navbar {
     justify-content: space-between;
     background-color: #FFF;
     padding: 5px 0;
+    margin-right: 20px;
 }
 
 #navbar a {
@@ -29,7 +31,7 @@ a {
     background-image: url("../img/evento2.jpg");
     background-size: cover;
     background-position: center;
-    height: 400px;
+    height: 250px;
     padding: 50px;
     text-align: center;
 }
@@ -48,6 +50,18 @@ a {
     margin-bottom: 0;
     text-align: center;
     padding: 10px;
+}
+
+#info-container .already-joined-msg{
+    margin: 15px 0;
+    color: #004085;
+    background-color: #CCE5FF;
+    border: 1px solid #B8DAFF;
+    padding: 5px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #search-container form {
